@@ -1,0 +1,26 @@
+# Archivos de construcción generados por el Arduino IDE
+*.bin
+*.elf
+*.hex
+*.map
+*.eep
+
+# Carpeta de salida del Arduino IDE
+build/
+
+# Archivos temporales y de configuración
+*.ino.*
+*.cpp.*
+*.h.*
+*.d
+
+# Configuración del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Si tienes librerías locales
+libraries/
+
+# Archivos sensibles
+config.h
